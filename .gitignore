@@ -1,0 +1,23 @@
+# Wordlists (can be large and should not be distributed with the payload)
+wordlists/
+*.txt
+
+# Loot directories produced at runtime
+loot/
+
+# P4wnP1 runtime files
+*.leases
+*.db
+*.pot
+
+# Temp HID scripts generated during execution
+*.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
