@@ -1,3 +1,5 @@
+<img width="256" height="254" alt="image-removebg-preview (3)" src="https://github.com/user-attachments/assets/30a4f7a2-6743-47e5-aacc-b8d65b6663b0" />
+
 # Win10 LockPicker
 
 A P4wnP1 A.L.O.A. payload that unlocks a locked Windows 10 session without
